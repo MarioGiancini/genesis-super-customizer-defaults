@@ -6,7 +6,7 @@ A standardized, organized, object-oriented foundation for building high-quality 
 
 The Genesis Super Customizer includes the following files:
 
-* `genesis-customizer-default-settings-v1.0.0.json` for upload via the Genesis import/export settings.
+* `genesis-customizer-default-settings.json` for upload via the Genesis import/export settings.
 * `README.md` This readme file that you’re currently reading.
 
 ## Features
