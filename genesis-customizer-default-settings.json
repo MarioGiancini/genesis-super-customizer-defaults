@@ -12,6 +12,7 @@
   "description_margin":0,
   "description_color":"",
   "hide_description":0,
+  "title_area_padding":10,
   "center_title_text":0,
   "theme_main_color":"#e5554e",
   "theme_accent_color":"#333",
